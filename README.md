@@ -8,4 +8,5 @@ a fin de entrenar los valores.
 Se comenzó con la limpieza del archivo *Train* en donde se encontró
 2 columnas con datos null que, casualmente, eran de las mismas filas.
 Estos datos fueron eliminados ya que no presentan problema alguno
-para el entrenamiento del modelo./nsadkaldsa
+para el entrenamiento del modelo.\
+sadasda
